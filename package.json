@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Evkovich/Template/issues"
   },
-  "homepage": "https://github.com/Evkovich/Template#readme"
+  "homepage": "https://github.com/Evkovich/Template#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
 }
